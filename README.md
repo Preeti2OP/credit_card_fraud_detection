@@ -6,30 +6,30 @@ This project aims to detect fraudulent credit card transactions using Logistic R
   https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
 
 # TABEL  OF   CONTENT
-# installation dataset 
+# Installation dataset 
    To run this project, you need to have Python, Jupyter installed along with the following libraries:
   pandas
   scikit-learn
   seaborn
-# import library
+# Import Library
    from sklearn.model selection import Train_test_split
    preprocessor 
    standard scaler
    accuracy score
    confusion matrix
    logistic regression
-# read dataset
+# Read Dataset
     using pandas library read csv dataset
-# spliting data
+# Spliting Data
   data is splited into  independent  and dependent data or feature and target data
-# scaling  data
+# Scaling  Data
     we hae used scaling in this project for incresing iteration in logestic regresion by using standard scaler  library
-# mode traning
-# model evaluation
+# Model Traning
+# Model Evaluation
    in this we have trained model by using logestic regression
-# confusion matrix
+# confusion Matrix
  it is  used  to to evaluate the performance of a classification model by comparing predicted and actual values, providing insights into the model's accuracy, precision, recall, and overall error rates.
-# heatmap
+# Heatmap
   it is used to visualize the correlation between different features, helping to identify patterns and relationships that can aid in detecting fraudulent transactions.
 
 
